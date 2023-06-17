@@ -1,0 +1,4 @@
+theme_config:
+  nav:
+    - title: Live Page
+      url: [https://edteves.github.io/goit-markup-hw-01/]
